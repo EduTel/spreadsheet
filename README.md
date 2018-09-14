@@ -12,6 +12,7 @@ A veces, es necesario hacer referencia a una celda fija de la hoja para realizar
 Si copiamos dicha fórmula en otras celdas de la hoja, Excel convertirá la letra y número de las referencias que aparezcan en función del desplazamiento de la copia
 * referencia mixta
 Es posible que nos interese mantener una referencia relativa para las filas y absoluta para las columnas o viceversa. En estos casos utilizamos el modo mixto. Se indica anteponiendo el símbolo $ al identificativo de columna o fila.
+* Mover y copiar celdas o rangos con referencias
 
 
 
